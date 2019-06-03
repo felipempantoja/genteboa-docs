@@ -1,3 +1,5 @@
+## História: Autenticar Usuário
+
 ### Descrição da História:
 
 **COMO** usuário cadastrado  
