@@ -56,6 +56,6 @@ Bom, eu comecei a escrever o que vinha na cabeça. Sei que não é exatamente um
 - Algum(a) analista de requisitos: Que analise e levante requisitos funcionais/não funcionais, e se possível ajude a deixar o projeto bem documentado. Nós programadores não somos muito bons em documentar né? :/
 - Programadores: Por enquanto é só um o/ mas seria bom se a equipe crescesse não só pra aumentar a velocidade de entrega mas também pra ajudar nas decisões técnicas, pra escalar o sistema se necessário, e de preferência, com um custo baixo (que também ainda não foi pensado, já que o app terá custo ZERO e opensource).
 - Alguém de UX: Porque nós programadores também não somos muito bons em estilizar coisas né? :'(
-- Parcerias 0800: Alguém pra ajudar a divulgar o app quando estiver pronto, pra integrar serviços, e quem sabe uma continha na Amazon com uma cota suficiente pra publicar nossa API e DB por lá? *_*
+- Parcerias 0800: Alguém pra ajudar a divulgar o app quando estiver pronto, pra integrar serviços, e quem sabe uma continha na Amazon com uma cota suficiente pra publicar nossa API e DB por lá? 0_0
 
 Enfim, por enquanto nem sei se essa ideia vai pra frente, mas estou bem animado pra tocar esse projeto. Então por enquanto somos só eu e meu notebook, tudo ainda muito incipiente. Vamos que vamos.
